@@ -1,5 +1,3 @@
-# floward-take-home-assessment
-
 # Floward Take Home Assessment
 
 ## Repository Overview
