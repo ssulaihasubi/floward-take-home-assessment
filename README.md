@@ -28,7 +28,9 @@ This repository contains the submissions for the following tasks as part of the 
 ## Files Included
 
 - **`.gitattributes`**: A standard file that ensures consistent handling of line endings across different operating systems.
-  
+- **`task-2-case-study-1-clustering.ipynb`**: Notebook implementing clustering algorithms.
+- **`task-3-case-study-1-ab-testing.ipynb`**: Notebook involving A/B testing.
+- **`case-study-2-anomaly-detection.ipynb`**: Notebook addressing anomaly detection.
 - **`README.md`**: The current file, providing an overview of the repository and guiding the user through the contents.
 
 ## How to Use
