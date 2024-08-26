@@ -42,4 +42,27 @@ This repository contains the submissions for the following tasks as part of the 
 3. **Reviewing Results**:
    - Key findings and results are summarized at the end of each notebook. For tasks involving statistical testing or clustering, visualizations are provided to illustrate the outcomes.
 
+## How to Clone the Repository
+
+To clone this repository to your local machine, follow the instructions below:
+
+### For Windows
+
+1. Open the Command Prompt or Git Bash.
+2. Navigate to the directory where you want to clone the repository.
+3. Run the following command:
+
+   ```bash
+   git clone https://github.com/ssulaihasubi/floward-take-home-assessment.git
+
+### For Mac
+
+1. Open Terminal.
+2. Navigate to the directory where you want to clone the repository.
+3. Run the following command:
+
+   ```bash
+   git clone https://github.com/ssulaihasubi/floward-take-home-assessment.git
+
+
 [![wakatime](https://wakatime.com/badge/user/7582c4e3-d09e-4202-8f65-4d19e7c9585e/project/631e2025-0185-4599-b2f0-e16fce0ae50b.svg)](https://wakatime.com/badge/user/7582c4e3-d09e-4202-8f65-4d19e7c9585e/project/631e2025-0185-4599-b2f0-e16fce0ae50b)
