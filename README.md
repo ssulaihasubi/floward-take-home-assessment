@@ -4,11 +4,11 @@
 
 This repository contains the submissions for the following tasks as part of the ongoing project analysis:
 
-1. **Case Study 1 - Clustering**: 
+1. **Case Study 1 (Task II) - Clustering**: 
    - Filename: [`task-2-case-study-1-clustering.ipynb`](https://github.com/ssulaihasubi/floward-take-home-assessment/blob/main/task-2-case-study-1-clustering.ipynb)
    - Description: This notebook implements clustering algorithms to segment the customer data. The objective was to identify distinct customer segments that could be targeted with personalized marketing strategies.
 
-2. **Case Study 1 - A/B Testing**: 
+2. **Case Study 1 (Task III) - A/B Testing**: 
    - Filename: [`task-3-case-study-1-ab-testing.ipynb`](https://github.com/ssulaihasubi/floward-take-home-assessment/blob/main/task-3-case-study-1-ab-testing.ipynb)
    - Description: This notebook involves the design and analysis of A/B tests aimed at evaluating the impact of promotional offers and free shipping on conversion rates. The analysis includes statistical tests to determine the effectiveness of the tested strategies.
 
