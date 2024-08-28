@@ -13,15 +13,23 @@ This repository contains the submissions for the following tasks as part of the 
    - Description: This notebook involves the design and analysis of A/B tests aimed at evaluating the impact of promotional offers and free shipping on conversion rates. The analysis includes statistical tests to determine the effectiveness of the tested strategies.
 
 3. **Case Study 1 (Task iv) - Business Dashboard Development (Work in Progress)**:
-   - **KPI Definition**:
-     - Define key performance indicators (KPIs) based on the insights from the EDA and cluster analysis.
-     - Ensure that the KPIs are relevant, measurable, and aligned with business objectives.
-   - **Dashboard Development**:
-     - Create a Tableau dashboard that visualizes the KPIs clearly and concisely.
-     - Include interactive features (e.g., filters, drill-downs) for users to explore the data further.
-     - Ensure that the dashboard is user-friendly and can be easily understood by non-technical stakeholders.
+   - URL to Dashboard: [`Floward Customer Clustering | by Applying K-Means Algorithm`](https://github.com/ssulaihasubi/floward-take-home-assessment/blob/main/task-3-case-study-1-ab-testing.ipynb)
+   - **Key Features:**:
+      - **Customer Segmentation**: Visualize how Floward's customers are grouped based on key metrics like total spend, order frequency, and customer lifetime.
+      - **Engagement Metrics**: Explore in-depth analysis of customer interactions, including session duration, frequency, and preferred devices.
+      - **Loyalty and Retention**: Track the accumulation of loyalty points, the distribution of loyalty levels, and the overall customer lifetime value within each cluster.
+      - **Geographical Distribution**: Identify where Floward's customers are located globally, enabling targeted regional strategies.
+      - **Device Preferences**: Understand which devices are most commonly used by customers in each segment to optimize user experience.
+
+   - **Interactive Elements:**:
+   - **Filters**: Refine the data by selecting specific date ranges, clusters, or KPIs.
+   - **Drill-Downs**: Click on any segment to uncover more detailed metrics and customer behavior.
+   - **Tooltips**: Hover over visual elements to gain additional insights and context
+
+   This dashboard is designed to help Floward make data-driven decisions that enhance customer satisfaction, boost revenue, and tailor marketing efforts. By understanding the unique characteristics of each customer segment, Floward can optimize its strategies to better meet customer needs and drive business growth.
+
        
-4. **Case Study 2 - Anomaly Detection**: 
+5. **Case Study 2 - Anomaly Detection**: 
    - Filename: [`case-study-2-anomaly-detection.ipynb`](https://github.com/ssulaihasubi/floward-take-home-assessment/blob/main/case-study-2-anomaly-detection.ipynb)
    - Description: This notebook addresses the anomaly detection task for the main metrics of Floward. It leverages machine learning techniques to identify outliers and abnormal patterns in the data, which could indicate underlying issues in the business operations.
 
