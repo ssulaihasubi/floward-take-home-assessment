@@ -12,8 +12,8 @@ This repository contains the submissions for the following tasks as part of the 
    - Filename: [`task-3-case-study-1-ab-testing.ipynb`](https://github.com/ssulaihasubi/floward-take-home-assessment/blob/main/task-3-case-study-1-ab-testing.ipynb)
    - Description: This notebook involves the design and analysis of A/B tests aimed at evaluating the impact of promotional offers and free shipping on conversion rates. The analysis includes statistical tests to determine the effectiveness of the tested strategies.
 
-3. **Case Study 1 (Task iv) - Business Dashboard Development (Work in Progress)**:
-   - URL to Dashboard: [`Floward Customer Clustering | by Applying K-Means Algorithm`](https://github.com/ssulaihasubi/floward-take-home-assessment/blob/main/task-3-case-study-1-ab-testing.ipynb)
+3. **Case Study 1 (Task iv) - Business Dashboard Development**:
+   - URL to Dashboard: [`Floward Customer Clustering | by Applying K-Means Algorithm`](https://app.powerbi.com/view?r=eyJrIjoiYmI1ZGZlMzUtYzFhOC00OWExLTk2YjctOTZkODEzNDE3NTQ3IiwidCI6IjYxODI5OTgyLWQ5NjAtNDRkNS05ZmRlLTIzMmU5MzI2Mzg1MCIsImMiOjEwfQ%3D%3D)
    - **Key Features:**:
       - **Customer Segmentation**: Visualize how Floward's customers are grouped based on key metrics like total spend, order frequency, and customer lifetime.
       - **Engagement Metrics**: Explore in-depth analysis of customer interactions, including session duration, frequency, and preferred devices.
