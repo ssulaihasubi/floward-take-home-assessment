@@ -22,9 +22,9 @@ This repository contains the submissions for the following tasks as part of the 
       - **Device Preferences**: Understand which devices are most commonly used by customers in each segment to optimize user experience.
 
    - **Interactive Elements:**:
-   - **Filters**: Refine the data by selecting specific date ranges, clusters, or KPIs.
-   - **Drill-Downs**: Click on any segment to uncover more detailed metrics and customer behavior.
-   - **Tooltips**: Hover over visual elements to gain additional insights and context
+      - **Filters**: Refine the data by selecting specific date ranges, clusters, or KPIs.
+      - **Drill-Downs**: Click on any segment to uncover more detailed metrics and customer behavior.
+      - **Tooltips**: Hover over visual elements to gain additional insights and context
 
    This dashboard is designed to help Floward make data-driven decisions that enhance customer satisfaction, boost revenue, and tailor marketing efforts. By understanding the unique characteristics of each customer segment, Floward can optimize its strategies to better meet customer needs and drive business growth.
 
